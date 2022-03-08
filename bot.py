@@ -1,4 +1,3 @@
-from textwrap import indent
 import tweepy
 from twitchAPI.twitch import Twitch
 import json
